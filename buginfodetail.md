@@ -36,10 +36,11 @@ Sqlmap command:
 
 > python sqlmap.py -u http://localhost:8080/autoexpress-Master/details.php?carId=3 --dbs  --batch
 
-![image-20240416105259636](C:\Users\zhangxiongbin\AppData\Roaming\Typora\typora-user-images\image-20240416105259636.png)
+![图片](https://github.com/torchstar/autoexpress/assets/95554269/41a38655-8c1c-4700-b85c-9230bbfd4a3a)
 
-![image-20240416105331342](C:\Users\zhangxiongbin\AppData\Roaming\Typora\typora-user-images\image-20240416105331342.png)
+![图片](https://github.com/torchstar/autoexpress/assets/95554269/d11aab90-53dc-4f78-9886-e5e7947108b3)
+
 
 > python sqlmap.py -u http://localhost:8080/autoexpress-Master/details.php?carId=3 -D autoexpress --tables  --batch
 
-![image-20240416105627005](C:\Users\zhangxiongbin\AppData\Roaming\Typora\typora-user-images\image-20240416105627005.png)
+![图片](https://github.com/torchstar/autoexpress/assets/95554269/0397907c-edfb-4ca0-8d7b-77b65b847773)
